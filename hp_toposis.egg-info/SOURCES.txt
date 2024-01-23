@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+hp_toposis/topsis.py
+hp_toposis.egg-info/PKG-INFO
+hp_toposis.egg-info/SOURCES.txt
+hp_toposis.egg-info/dependency_links.txt
+hp_toposis.egg-info/entry_points.txt
+hp_toposis.egg-info/requires.txt
+hp_toposis.egg-info/top_level.txt

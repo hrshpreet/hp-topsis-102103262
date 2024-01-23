@@ -1,0 +1,28 @@
+Project Description:
+TOPSIS-MCDM-Package
+
+Author:
+Harshpreet Singh
+
+## Type:
+Python Package
+
+## Title:
+TOPSIS with MCDM
+
+## Description:
+The TOPSIS with MCDM (Multi-Criteria Decision Making) package offers a practical solution for evaluating alternatives based on multiple criteria using the Technique for Order Preference by Similarity to Ideal Solution (TOPSIS). Originating in the 1980s, TOPSIS identifies the alternative with the shortest Euclidean distance from the ideal solution and the greatest distance from the negative-ideal solution.
+
+## Installation:
+To install this package, use the following command:
+```
+pip install hp_topsis
+```
+
+## Command Line Usage:
+``` 
+hp_topsis data.csv "2,2,3,3,4" "-,+,-,+,-"
+```
+
+License:
+© 2024 Harshpreet Singh
